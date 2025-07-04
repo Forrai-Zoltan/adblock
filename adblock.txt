@@ -1,3 +1,13 @@
+[Adblock Plus 2.0]
+! Version:
+! Title:
+! Last modified:
+! Expires: 4 days (update frequency)
+! Homepage:
+!
+
+
+
 ! 30 May 2024 https://twitter.com
 twitter.com##.r-bnwqim.r-3pj75a.r-1mmae3n.r-uaa2di.r-eqz5dr.r-1habvwh.css-175oi2r
 
