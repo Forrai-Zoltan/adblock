@@ -1,9 +1,5 @@
-! Title: My Custom Filter List
-! Version: 2025.07.04
-! Expires: 1 day
-! Homepage: https://example.com
-! Description: Blocks unwanted content and websites
-! Last modified: 2025-07-04
 ||youtube.com^
 ||youtu.be^
 ||youtube-nocookie.com^
+||youtube.com^$document
+||youtube-nocookie.com^$document
